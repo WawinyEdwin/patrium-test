@@ -1,5 +1,4 @@
-Patrium Health engineering Technical Interview Test
-+ Nestjs + Reactjs
+
 
 ```
 How To Run the Files
